@@ -142,7 +142,3 @@ def getSign(javascript,url=""):
     app.quit()
     
     return result
-
-if __name__ == "__main__":
-    js=open("ks.js","r+",encoding="utf-8").read()
-    print(getSign(js,"https://www.kuaishou.com/?isHome=1&source=NewReco"))
