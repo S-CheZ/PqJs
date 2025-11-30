@@ -29,3 +29,12 @@ PyQtWeb引擎逆向工具
 > export QMLSCENE_DEVICE=softwarecontext<br/>
 > export QT_X11_NO_MITSHM=1<br/>
 > export QT_NO_GLUT=1<br/>
+
+
+
+
+<div style="display: flex !important;flex-direction: row;justify-content: space-around;">
+  <img src="https://github.com/S-GGbond/PqJs/blob/main/img/wx.jpeg" width="200"  alt="微信群">
+  <img src="https://github.com/S-GGbond/PqJs/blob/main/img/qq.jpeg" width="200"  alt="QQ群">
+    
+</div>
